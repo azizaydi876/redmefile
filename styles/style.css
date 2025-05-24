@@ -1,0 +1,100 @@
+body{
+    background: #fff4f0;
+background: linear-gradient(nulldeg, rgba(36, 34, 33, 0.7) 0%, rgba(242, 144, 7, 0.49) 100%);
+margin: 0%;
+
+}
+
+nav{
+    background-color: rgb(213, 205, 223);
+    height: 5vh;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5vh;
+      color: #f4f4f4;            
+  font-size: 24px;            
+  font-weight: bolder;          
+  font-family: 'Arial';
+  text-align: center;        
+  text-transform: uppercase;  
+  letter-spacing: 2px;        
+  background-color: #cdc175;  
+  padding: 10px ;            
+  border-bottom: 5px solid #5d4640; 
+
+
+}
+
+.Recette{
+    background-color: rgb(179, 193, 208);
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+
+}
+.RECETTE-DISPLAY{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   
+    
+
+}
+.LIST{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    display: flex;
+justify-content: center;
+align-items: center;
+padding-left: 300px;
+}
+.ITEM{
+    margin: 10%;
+    border: 10px solid rgb(255, 246, 246);
+    
+    
+}
+.ITEM img{
+    width: 100%;
+    text-align: end;
+}
+.ITEM h1{
+    text-align: center;
+    color: black;
+}
+h2 {
+  font-size: 36px;
+  color: #e76f51;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 20px;
+}
+h3{
+    font-size: 36px;
+  color: mediumslateblue;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 20px;
+
+}
+h4{
+    font-size: 36px;
+  color: rgb(74, 152, 201);
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
